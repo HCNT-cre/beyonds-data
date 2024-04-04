@@ -1,0 +1,39 @@
+{
+  "KhuVuc": [
+    {
+      "id": "2",
+      "ten_hien_thi": "Khu vực thường 34",
+      "mieu_ta": "Khu vực dành cho DNTL"
+    },
+    {
+      "id": "3",
+      "ten_hien_thi": "Khu vực vip pro",
+      "mieu_ta": "Khu vực dành cho NTHC"
+    },
+    {
+      "ten_hien_thi": "Khu vực đặc biệt",
+      "mieu_ta": "Khu vực dành cho QT",
+      "id": "V0LdoFK"
+    },
+    {
+      "ten_hien_thi": "abc",
+      "mieu_ta": "bcde",
+      "id": "ePeZTip"
+    },
+    {
+      "ten_hien_thi": "aaaa",
+      "mieu_ta": "aaa",
+      "id": "aQmUxvN"
+    },
+    {
+      "ten_hien_thi": "khu vực vip pro",
+      "mieu_ta": "aaaa",
+      "id": "QZuizQD"
+    }
+  ],
+  "Mo": [
+    {
+      "ma_super_mo": "1"
+    }
+  ]
+}
